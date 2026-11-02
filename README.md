@@ -50,7 +50,7 @@ I'm working towards becoming a skilled Data Analyst who can use data to identify
 
 ## 📫 Connect With Me
 
-- **GitHub:** https: jeremiah-sunday
+- **GitHub:** https://github.com/Jeremiah-Sunday
 - **LinkedIn:** www.linkedin.com/in/jeremiah-sunday.
 - **Email:** jeremiah01business@gmail.com.
 
